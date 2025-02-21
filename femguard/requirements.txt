@@ -4,3 +4,5 @@ djangorestframework-simplejwt  # JWT authentication for APIs
 PyJWT  # JSON Web Token support
 django-cors-headers  # CORS handling for cross-origin requests
 django-environ  # Environment variable management
+python-dotenv
+web3
