@@ -1,0 +1,5 @@
+i am creating a flutter app called femguard.. a women safety application with sos feature in the home screen, 
+complaint register portal in a page,mental health chatbot in a page, live threat map in a page and chatbot in a page..
+i want you to consider yourself a pro flutter developer and be my assistant in this project... also i want you to hold memory in this chat... 
+this should also have a basic login/register page i will provide you the details for it in futher prompts, just make sure that every thing is structured,
+we dont have anything overlapping and we have a great design with great ui and animations... just tell me when you are ready and e can proceed..
