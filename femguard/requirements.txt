@@ -1,0 +1,13 @@
+Django>=4.2,<5.0  # Core Django framework
+djangorestframework  # REST framework for APIs
+djangorestframework-simplejwt  # JWT authentication for APIs
+PyJWT  # JSON Web Token support
+django-cors-headers  # CORS handling for cross-origin requests
+django-environ  # Environment variable management
+python-dotenv
+web3
+twilio
+langchain
+langchain_community
+langchain_groq
+torch
